@@ -10,7 +10,7 @@ The system provides step-by-step trace outputs showing insertion, collision hand
 - Jeronimo Tzib
 
 ## Course Information
-- Course: CMPS 2242
+- Course: CMPS 2131
 - Lecturer: Mr. Dalwin Lewis
 
 ## Project Goals
